@@ -1,2 +1,4 @@
 # Demo-1
-first github repo
+This is my first github repository. I am learning using github from apnacollege youtube channel. 
+<br>
+Author - Monika Kushwaha
